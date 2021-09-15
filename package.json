@@ -1,0 +1,21 @@
+{
+    "name": "redmsnippets",
+    "displayName": "RedMSnippets",
+    "publisher": "Xander1998",
+    "description": "RedM Native Snippets and Custom Snippets",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "lua",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
