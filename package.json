@@ -4,6 +4,7 @@
     "publisher": "Xander1998",
     "description": "RedM Native Snippets and Custom Snippets",
     "version": "0.0.1",
+    "repository": "https://github.com/xander1998/RedMSnippets",
     "engines": {
         "vscode": "^1.60.0"
     },
